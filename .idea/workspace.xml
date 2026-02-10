@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics">
-      <change afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cla_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules_libs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +26,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="39DR3spxfI6XTpmoXdbmjlfBIMt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,8 +40,10 @@
     "Python.Student.executor": "Run",
     "Python.Tuples_demo.executor": "Run",
     "Python.base.executor": "Run",
+    "Python.basic.executor": "Run",
     "Python.cla_project.executor": "Run",
     "Python.condition.executor": "Run",
+    "Python.creating_arrays.executor": "Run",
     "Python.demo__.executor": "Run",
     "Python.dict_demo.executor": "Run",
     "Python.error_demo.executor": "Run",
@@ -59,14 +53,23 @@
     "Python.loops.executor": "Run",
     "Python.main.executor": "Run",
     "Python.modules_libs.executor": "Run",
+    "Python.numpi.executor": "Run",
+    "Python.numpy.executor": "Run",
     "Python.read_file.executor": "Run",
     "Python.sets_demo.executor": "Run",
     "Python.write_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic" />
+      <recent name="$PROJECT_DIR$/DS" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
