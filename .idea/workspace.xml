@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics" />
+    <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics">
+      <change afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuples_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cla_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_libs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/write_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39DR3spxfI6XTpmoXdbmjlfBIMt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,14 +44,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Strings.executor": "Run",
+    "Python.Student.executor": "Run",
+    "Python.Tuples_demo.executor": "Run",
     "Python.base.executor": "Run",
+    "Python.cla_project.executor": "Run",
     "Python.condition.executor": "Run",
+    "Python.demo__.executor": "Run",
     "Python.dict_demo.executor": "Run",
+    "Python.error_demo.executor": "Run",
     "Python.functions_demo.executor": "Run",
     "Python.input_demo.executor": "Run",
     "Python.list_demo.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.modules_libs.executor": "Run",
+    "Python.read_file.executor": "Run",
+    "Python.sets_demo.executor": "Run",
+    "Python.write_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -75,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770230554929</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python basics">
+      <option name="closed" value="true" />
+      <created>1770230603515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770230603515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
