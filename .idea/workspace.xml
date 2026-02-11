@@ -57,6 +57,8 @@
     "Python.numpy.executor": "Run",
     "Python.read_file.executor": "Run",
     "Python.sets_demo.executor": "Run",
+    "Python.student_marks_preds.executor": "Run",
+    "Python.train_test_demo.executor": "Run",
     "Python.write_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
