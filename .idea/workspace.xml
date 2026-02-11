@@ -48,6 +48,7 @@
     "Python.dict_demo.executor": "Run",
     "Python.error_demo.executor": "Run",
     "Python.functions_demo.executor": "Run",
+    "Python.house_price_ml.executor": "Run",
     "Python.input_demo.executor": "Run",
     "Python.list_demo.executor": "Run",
     "Python.loops.executor": "Run",
