@@ -5,7 +5,7 @@ import joblib
 app=FastAPI()
 
 
-model=joblib.load("/Users/mahendharjillala/Desktop/PythonProject/python_overnight/ml_basic/house_price_model.pkl")
+model=joblib.load(".../ml_basic/house_price_model.pkl")
 
 @app.get("/")
 def home():
