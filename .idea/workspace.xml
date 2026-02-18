@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics" />
+    <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_overnight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_overnight.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +65,7 @@
     "Python.numpy.executor": "Run",
     "Python.read_file.executor": "Run",
     "Python.sets_demo.executor": "Run",
+    "Python.simple_rag.executor": "Run",
     "Python.student_marks_preds.executor": "Run",
     "Python.train_test_demo.executor": "Run",
     "Python.write_file.executor": "Run",
@@ -69,7 +74,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/mahendharjillala/Documents/Python/PythonProject/python_overnight",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">

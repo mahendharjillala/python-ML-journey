@@ -1,0 +1,7 @@
+Machine learning is a field of artificial intelligence that enables computers to learn from data.
+
+Linear regression is a supervised learning algorithm used for predicting numerical values.
+
+Neural networks are inspired by the human brain and consist of layers of interconnected neurons.
+
+RAG stands for Retrieval Augmented Generation, which allows AI systems to use external knowledge.
