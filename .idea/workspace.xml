@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd86b30-8921-4364-a9a5-ec4cbf01a23c" name="Changes" comment="python basics">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_overnight.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_overnight.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +66,7 @@
     "Python.simple_rag.executor": "Run",
     "Python.student_marks_preds.executor": "Run",
     "Python.train_test_demo.executor": "Run",
+    "Python.vector_rag.executor": "Run",
     "Python.write_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
