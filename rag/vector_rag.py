@@ -1,12 +1,17 @@
 import ollama
 from sentence_transformers import SentenceTransformer
 import numpy as np
+import os
+
 
 model=SentenceTransformer('all-MiniLM-L6-v2')
 
-with open("knowledge.txt","r") as f:
-    knowledge=f.read()
 
+BASE_DIR = os.path.dirname(__file__)
+file_path = os.path.join(BASE_DIR, "knowledge.txt")
+
+with open(file_path, "r", encoding="utf-8") as f:
+    knowledge = f.read()
 chunks=knowledge.split("\n")
 
 chunk_embeddings=model.encode(chunks)
